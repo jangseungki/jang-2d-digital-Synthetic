@@ -155,5 +155,7 @@ sRGB와 색공간의 개머트가 동일하지만 다른 감마특성
 Rec.2020-UHD를 권고안으로 709에 비해 2배이상 넒은 개머트 
 
 > 출처: https://en.wikipedia.org/wiki/Color_space
+> 
 >       https://dvdprime.com/g2/bbs/board.php?bo_table=dpinfo&wr_id=47998
+
 >       https://terms.naver.com/entry.naver?docId=3340383&cid=58161&categoryId=58161
