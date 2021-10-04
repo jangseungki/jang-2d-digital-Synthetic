@@ -32,3 +32,7 @@ scan > cgi > digital media  로그 감마 LIN 인코딩 컴퓨터로 처리 후 
 
 각 회사 마다 빛의 표현이 다르다. (Clog, Log3G10, SLog, SLog2, SLog3, RedLog, AlexaLog, sRGB, Rec709 등) 클립 각각의 색공간은 제조사가 구체적으로 설계한 것 (센서가 재현할 수 있는 컬러의 정확도를 
 최적화 하기 위해) 
+
+**Color space 
+
+색상모델에서 유래한 색 구성 성분을 조합한것 (범위를 수학으로 표현), 색상모델은 그 목적에 따라 다양하다. CIEXYZ(인간인지를 범주화_국제 조명위원회), CMY or CMYK(인쇄용 잉크), RYM (물감 예술 디자인), 
