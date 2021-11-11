@@ -216,3 +216,11 @@ Display Referred vs Scene Referred Workflow
 
 ![SDGSDGSDFG](https://user-images.githubusercontent.com/90597861/141206266-61ab563a-e83f-4579-a199-4d153063e014.JPG)
 
+✔ Gamma 곡선? 
+
+ 러트의 한 종류로 전달함수로 말할 수 있는건가 그럼. 우리가 보통 감마는 감마보정을 통해 정상적인 이미지를 출력하는것을 나타낸다고해. 그래서 감마라하면 화면의 밝기 값을 조정한다고 생각해. (CRT 모니터 시대에 실제 이미지보다 어둡게 표현되는 오류. 그로 인해 감마곡선으로 밝게 저장하여 실제 이미지로 볼 수 있게 하기위해 탄생.) 
+ 
+ 호환성으로 인해 sRGB같은 경우에도 감마 2.2 커브로 표현되기 때문에 (sRGB 모니터 같은 경우에 감마2.2커브도 포함되어 있다는 말) JPG나 PNG 같은 경우에도 밝게 저장된다. 자동으로 감마 코렉션이 이루어 지는것. 
+ 
+ ![SADGSADF](https://user-images.githubusercontent.com/90597861/141318676-df3dbc89-6688-4858-83e1-042cfa026aab.JPG)
+
