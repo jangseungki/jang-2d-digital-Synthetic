@@ -294,3 +294,9 @@ RGBA에서 A는 알파값, 즉 투명도를 말하는데 프로그램에서 투�
 ![dtghdhj](https://user-images.githubusercontent.com/90597861/141683361-e6c74bc3-57fc-46cc-940f-a74a9b5fc5d3.JPG)
 
 프리멀트를 한다면 제대로 나온다. 항상 알파값은 1일때 불투명하고 (흰색) 0일때 투명하다 (검정) 
+
+그래서 우리가 프리멀트 방식인 누크에서 png로 저장해서 포토샵으로 불러온다면 a값과 rgb가 짜부되어서 그냥 투명하게 나타내어 버린다. 
+
+![dsaghg](https://user-images.githubusercontent.com/90597861/141683812-0d72f810-bc13-4a3e-9845-ee4eae8bdac4.JPG)
+
+이런식으로. 
