@@ -290,6 +290,7 @@ RGBA에서 A는 알파값, 즉 투명도를 말하는데 프로그램에서 투�
 ![fsdghhghj](https://user-images.githubusercontent.com/90597861/141683320-8dc35647-8cf1-4f06-9759-5ec9534a69dc.JPG)
 
 이런식으로 로토로 쉐입을 만들어 알파채널을 형성하고. 원본 파일에 프리멀트(곱하기)를 하줘야 제대로 된 작업물이 나온다. 만약 프리멀트를 하지 않을 경우는 위 사진 같은 결과물. 
+(over= A+B(1-a)에 대해서 생각해보자 a= A의 알파값) 
 
 ![dtghdhj](https://user-images.githubusercontent.com/90597861/141683361-e6c74bc3-57fc-46cc-940f-a74a9b5fc5d3.JPG)
 
