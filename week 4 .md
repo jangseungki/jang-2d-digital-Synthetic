@@ -14,6 +14,7 @@ a는 A의 알파값  풀어보면
 ![dfsdzfs](https://user-images.githubusercontent.com/90597861/143047341-52d751b0-e462-4276-b702-1028a1aa5680.JPG)
 ![fsdfasdwq](https://user-images.githubusercontent.com/90597861/143047348-3aada266-c9a5-447e-af93-e7722e1e2ebf.JPG)
 ![ascdsdzcwdq](https://user-images.githubusercontent.com/90597861/143048335-78df9d76-9226-47c7-b7ef-2ef53735baeb.JPG)
+
 stancil과 plus을 포함한다. 
 
 *atop_ Ab+B(1-a) ??
@@ -23,7 +24,10 @@ Ab는 A값에 B의 알파값을 곱하고, A의 알파값과 반대되는 알파
 그럼 A와 B는 합성이 되고 B의 알파값 또한 남아있겠네? 
 
 *mask Ba 
+
 B에 A의 알파값을 곱하면 B는 A의 알파값만큼만 붙투명하겠네.
+
+![dfsewqe](https://user-images.githubusercontent.com/90597861/143068387-424f712d-cb33-4c10-9b31-e90fb7390eac.JPG)
 
 *matte Aa+B(1-a) 
 
@@ -31,4 +35,17 @@ A에 A의 알파값을 곱한다고? 그럼 A는 알파값 1인 부분만 남고
 
 ![hfgdrseqwqw](https://user-images.githubusercontent.com/90597861/143067978-e9d780fa-045d-46dc-9d70-07d0c891295d.JPG)
 
+*out A(1-b) 
 
+B의 알파값의 반대를 A에 적용 
+![ereweds](https://user-images.githubusercontent.com/90597861/143075713-433ea402-870d-4a7a-8558-b59e3ff3e90b.JPG)
+
+*Under A(1-b)+B 
+
+out에서 B를 더한다? 
+
+![ERWEWDCS](https://user-images.githubusercontent.com/90597861/143076408-2de5c9f6-fd7f-4890-9c7b-51b88368e606.JPG)
+
+*xor A(1-b)+B(1-a) ?
+
+A에 구멍난 상태이고 B에 구멍난 상태에 둘이 더하면 
