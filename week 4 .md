@@ -5,6 +5,26 @@
 
 ![fgdsfdszf](https://user-images.githubusercontent.com/90597861/143025064-99d73b86-c23b-43a1-8264-14bfe8b8e03b.JPG)
 
+*atop 
+
+![hdfgdfs](https://user-images.githubusercontent.com/90597861/145075553-0b4f2786-3c63-44d0-89ae-f23f9a050e31.JPG)
+
+*average (A+B)/2
+
+![adsfsdasd](https://user-images.githubusercontent.com/90597861/145077177-dbba56a5-6684-4c42-99fd-706da597a989.JPG)
+
+*color-burn darken B towards A  (Image B gets darker based on the luminance of A)
+
+![;lkioui](https://user-images.githubusercontent.com/90597861/145077822-b876b454-5c84-455b-accd-c5420c9f4d56.JPG)
+
+*color-dodge 	brighten B towards A (mage B gets brighter based on the luminance of A) 
+
+![sdfweq](https://user-images.githubusercontent.com/90597861/145078267-4582766c-0962-4527-870b-6cfb0b477244.JPG)
+
+*difference  abs(A-B) How much the pixels differ.
+
+![asdqwfweqr](https://user-images.githubusercontent.com/90597861/145079481-c6f071d5-a658-4fd7-afa5-74d9dd19470d.JPG)
+
 *over A+B(1-a) 
 
 a는 A의 알파값  풀어보면 
@@ -16,6 +36,10 @@ a는 A의 알파값  풀어보면
 ![ascdsdzcwdq](https://user-images.githubusercontent.com/90597861/143048335-78df9d76-9226-47c7-b7ef-2ef53735baeb.JPG)
 
 stancil과 plus을 포함한다. 
+
+*exclusion A more photographic form of difference.
+
+![uhjg](https://user-images.githubusercontent.com/90597861/145080485-60caae2e-7629-4d24-b2dc-bea147e936fd.JPG)
 
 *atop_ Ab+B(1-a) ??
 
@@ -46,6 +70,8 @@ out에서 B를 더한다?
 
 ![ERWEWDCS](https://user-images.githubusercontent.com/90597861/143076408-2de5c9f6-fd7f-4890-9c7b-51b88368e606.JPG)
 
+그냥 over를 a,b 소스를 반대로 한거 같은데?? 
+
 *xor A(1-b)+B(1-a) ?
 
-A에 구멍난 상태이고 B에 구멍난 상태에 둘이 더하면 
+
