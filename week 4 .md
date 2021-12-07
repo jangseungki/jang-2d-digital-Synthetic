@@ -9,6 +9,10 @@
 
 ![hdfgdfs](https://user-images.githubusercontent.com/90597861/145075553-0b4f2786-3c63-44d0-89ae-f23f9a050e31.JPG)
 
+Ab는 A값에 B의 알파값을 곱하고, A의 알파값과 반대되는 알파값을 가진 B를 더한다? 
+
+그럼 A와 B는 합성이 되고 B의 알파값 또한 남아있겠네? 
+
 *average (A+B)/2
 
 ![adsfsdasd](https://user-images.githubusercontent.com/90597861/145077177-dbba56a5-6684-4c42-99fd-706da597a989.JPG)
@@ -39,19 +43,17 @@ stancil과 plus을 포함한다.
 
 *exclusion A more photographic form of difference.
 
-![uhjg](https://user-images.githubusercontent.com/90597861/145080485-60caae2e-7629-4d24-b2dc-bea147e936fd.JPG)
+![uhjg](https://user-images.githubusercontent.com/90597861/145080485-60caae2e-7629-4d24-b2dc-bea147e936fd.JPG) 
 
-*atop_ Ab+B(1-a) ??
+*in Ab  Only shows the areas of image A that overlap with the alpha of B
 
-Ab는 A값에 B의 알파값을 곱하고, A의 알파값과 반대되는 알파값을 가진 B를 더한다? 
-
-그럼 A와 B는 합성이 되고 B의 알파값 또한 남아있겠네? 
+![qew](https://user-images.githubusercontent.com/90597861/145082359-73597522-d77e-411f-9e1f-6fca19794530.JPG)
 
 *mask Ba 
 
-B에 A의 알파값을 곱하면 B는 A의 알파값만큼만 붙투명하겠네.
+B에 A의 알파값을 곱하면 B는 A의 알파값만큼만 붙투명하겠네. (in의 반대) 
 
-![dfsewqe](https://user-images.githubusercontent.com/90597861/143068387-424f712d-cb33-4c10-9b31-e90fb7390eac.JPG)
+![qwedqwfcadsf](https://user-images.githubusercontent.com/90597861/145082661-563ad027-11d5-43c4-bd64-597762d31bbf.JPG)
 
 *matte Aa+B(1-a) 
 
@@ -74,4 +76,5 @@ out에서 B를 더한다?
 
 *xor A(1-b)+B(1-a) ?
 
+![image](https://user-images.githubusercontent.com/90597861/145083817-6bff9ef1-cee6-46df-aaee-ccaa7d85f6d1.png)
 
