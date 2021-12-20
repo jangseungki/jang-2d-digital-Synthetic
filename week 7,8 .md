@@ -34,6 +34,6 @@
 
 ![fsdqe](https://user-images.githubusercontent.com/90597861/146705280-63fd5e2f-aa3e-44b5-b046-2b5122fa7840.JPG)
 
-*출처_ ![image](https://user-images.githubusercontent.com/90597861/146705292-d24b984c-de61-47e0-85cd-6817be418954.png)
+*출처_https://www.youtube.com/watch?v=ppB6yfzVq4A
 
 
