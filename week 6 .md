@@ -66,3 +66,4 @@ ClipWhite parameter를 사용해서 이 문제를 해결할 수 있다. 반대�
 
 ![keylight_graph_377x192](https://user-images.githubusercontent.com/90597861/146701375-4c0ffdf0-358e-4c1b-a3e3-9495f2f95126.png)
 
+*출처_https://learn.foundry.com/nuke/content/reference_guide/transform_nodes/tracker.html
