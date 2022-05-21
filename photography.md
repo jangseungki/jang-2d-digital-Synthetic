@@ -221,8 +221,10 @@ Gamma는 Midtone이라고 이해하면 된다.
 
 ![sdfqweqw](https://user-images.githubusercontent.com/90597861/169657792-27286cb2-c224-4738-968d-02af57e01df9.JPG)
 
+당시 대중화 된 모니터의 기계적 특성에 의해 미드톤이 실제로 모니터에서 어둡게 보였던 것. 그 두꺼운 모니터 이름 까먹음. 그래서 실제 보이는 것과 모니터에서 보이는 것과의 밝기를 맞춰주기 위한 방법을 찾다 고안해낸 방법이 카메라로 찍은 후 센서가 받아들인 빛 정보를 파일로 저장시에 실제 모습보다 감마톤은 올려 살짝 밝게 저장하는 방식. 
 
+![sdfsewerwer](https://user-images.githubusercontent.com/90597861/169658241-7de090ad-2488-485d-a6a4-62022dea6ffa.JPG)
 
-
+![sdfqwrqwrsdfsdfas](https://user-images.githubusercontent.com/90597861/169658242-68a4241b-31cf-4fe7-a925-81d13b88b1f6.JPG)
 
 
