@@ -53,6 +53,9 @@ Chroma subsampling YCbCr 4:2:0
 
 ![KakaoTalk_20210927_014725615](https://user-images.githubusercontent.com/90597861/134845392-bf72398d-8f52-4e3e-95f1-53ec49683a1c.jpg)
 
+![FDEFD](https://github.com/jangseungki/jang-2d-digital-Synthetic/assets/90597861/3646e4da-9638-4d61-86b3-fba815376824)
+
+
 Red,Green,Blue 빛의 3요소 컬러별로 8비트(2의 8승)-256단계의 명암 표현 가능 시스템 
 8bit RGB 즉, 24bit 컬러 시스템은 256의 3승으로 천육백만(16,777,216) 컬러 표현 가능 
 >RGB(0.0.0)= Black, RGB(255.255.255)= White 
@@ -121,5 +124,26 @@ YCbCr 4:2:0
 >그 시기는 매우 더디다. 정답은 하위 호환성에 있다 
 >새로운 기술은 적용에 있어 현실보다 하위호환성이 떨어진다면 소비자들은 가진 모든 영상 기기를 바꾸어야 하거나 그간의 영상을 보지 못하게 됨 
 
+# 브라운관 TV는 HDTV의 표준
+> 브라운관 TV의 전자총
+![image](https://github.com/jangseungki/jang-2d-digital-Synthetic/assets/90597861/60a89843-db71-4f33-baff-360f955ede30)
+브라운관은 진공상태의 유리벌브 내의 전자총이 전자빔을 쏘고, 내부의 편향코일(DY)이 직진성을 가진 전자빔을 휘게 해 전체 화면에 고루 퍼지게 합니다. 휘어진 전자는 색을 선별하고 위치를 지정해주는 섀도우 마스크를 통과해, 전면유리에 씌어진 형광막에 부딪히면서 R-G-B(적？녹？청)의 빛을 내게 되는 것
+전자총자체는 출력값만 결정하기 때문에 Y값처럼 생각하면 된다
+> (전자총1 100(출력값), 전자총2 100, 전자총3 100)=WHITE
+> (전자총1 100, 전자총2 0, 전자총3 0 )= RED
+## 디지털은 2진법 
+8bit RGB 
 
+![KakaoTalk_20210927_014725615](https://user-images.githubusercontent.com/90597861/134845392-bf72398d-8f52-4e3e-95f1-53ec49683a1c.jpg)
+
+![FDEFD](https://github.com/jangseungki/jang-2d-digital-Synthetic/assets/90597861/3646e4da-9638-4d61-86b3-fba815376824)
+
+
+Red,Green,Blue 빛의 3요소 컬러별로 8비트(2의 8승)-256단계의 명암 표현 가능 시스템 
+8bit RGB 즉, 24bit 컬러 시스템은 256의 3승으로 천육백만(16,777,216) 컬러 표현 가능 
+>RGB(0.0.0)= Black, RGB(255.255.255)= White 
+~~추가 Win 10에서의 32비트=RGB 8비트 3배 + 알파값 8비트~~
+>HD= REC.709 (8~10bit)
+>UHD= REC.2020 (10~12bit) 2의 10승 =1024 (1024*1024*1024)=10억 컬러
+>~~하지만 아직 디스플레이가 10bit 지원율이 낮다~~ 그래서 그 사이에 나온 시네마컬러 표준 **P3**
 
