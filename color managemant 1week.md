@@ -35,6 +35,8 @@ HSL
 ## 우리의 뇌는 명도로 형태를 이해 (색이 아닌) 
 **YCbCr** 
 > Y는 명도 CbCr은 크로마(색)을 의미 > ~~즉 밝기정보와 색상정보를 따로 인식한다~~ proress422HQ 에서 프로레스는 코덱, 4는 명도 22은 크로마를 의미 (크로마서브 샘플링)
+> ![image](https://github.com/jangseungki/jang-2d-digital-Synthetic/assets/90597861/d144a308-3367-4ab6-8762-c4e09f286e59)
+
 **chroma key 
 
 ✔✔YUV,YCbCr/YPbPr what is a chroma sampling? 
