@@ -51,6 +51,8 @@ HSL
 
 ✔✔YUV,YCbCr/YPbPr what is a chroma sampling? 
 
+To humans, variations in brightness are easier to see than colour differences. Chroma (colour) subsampling is a method that makes use of this to reduce the colour information when converting RGB files to YCbCr signals to enable smaller data files. 4:2:2 and 4:2:0 refer to different methods of chroma subsampling.
+
 Chroma subsampling YCbCr 4:2:0
 (크로마:색차+ 서브샘플링: 전체 데이터의 샘플링이 아닌 데이터 일부를 추려서 샘플링) 
 >>> Y(LUMA) UV(크로마:색차)로 구성된 YUV 컬러 모델은 Y는 그대로 두고 크로마정보를 서브샘플링하여 전체 영상 데이터를 줄여주는 기술 (Y값도 감마 보정은 이루어짐) 
