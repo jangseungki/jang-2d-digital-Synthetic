@@ -35,15 +35,21 @@ HSL
 ## 우리의 뇌는 명도로 형태를 이해 (색이 아닌) 
 **YCbCr** 
 > Y는 명도 CbCr은 크로마(색)을 의미 > ~~즉 밝기정보와 색상정보를 따로 인식한다~~ proress422HQ 에서 프로레스는 코덱, 4는 명도 22은 크로마를 의미 (크로마서브 샘플링)
-> ![image](https://github.com/jangseungki/jang-2d-digital-Synthetic/assets/90597861/d144a308-3367-4ab6-8762-c4e09f286e59)
+>
+> - Luminance (brightness) - Y
+- Blue colour difference - Cb
+- Red colour difference - Cr
 
+- YCbCr has its origins in television broadcasting. When the world was transitioning from black and white to colour broadcasting, it allowed the use of just one signal for the broadcast of both black and white and colour images. Black and white TV sets could use only the Y (luminance) signals to display black and white images, whereas colour TV sets would also use the Cb and Cr signals to display in colour. Similar encoding methods are the YUV and YPbPr methods.
+- 
+> ![image](https://github.com/jangseungki/jang-2d-digital-Synthetic/assets/90597861/d144a308-3367-4ab6-8762-c4e09f286e59)
+> 
+1. The camera generates an RGB image from the light received by the image sensor.
+2. The RGB image is encoded into a YCbCr signal, which is what is recorded and transmitted to viewing devices.
+3. The display device (computer, TV set or monitor) decodes the YCbCr signals and converts them back into RGB for display.
 **chroma key 
 
 ✔✔YUV,YCbCr/YPbPr what is a chroma sampling? 
-
-- Luminance (brightness) - Y
-- Blue colour difference - Cb
-- Red colour difference - Cr
 
 Chroma subsampling YCbCr 4:2:0
 (크로마:색차+ 서브샘플링: 전체 데이터의 샘플링이 아닌 데이터 일부를 추려서 샘플링) 
